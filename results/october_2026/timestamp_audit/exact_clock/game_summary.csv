@@ -1,0 +1,22 @@
+game_id,matchup,candidate_n,selected_n,status_differences,missing_in_candidate,missing_in_selected
+2025-26|20251220T0000Z|Miami Heat@Boston Celtics,MIA@BOS,15,15,0,0,0
+2025-26|20251220T0000Z|Philadelphia 76ers@New York Knicks,PHI@NYK,11,11,3,0,0
+2025-26|20251220T0030Z|San Antonio Spurs@Atlanta Hawks,SAS@ATL,9,9,0,0,0
+2025-26|20251220T0030Z|Chicago Bulls@Cleveland Cavaliers,CHI@CLE,15,15,0,0,0
+2025-26|20251220T0230Z|Oklahoma City Thunder@Minnesota Timberwolves,OKC@MIN,11,11,1,0,0
+2025-26|20251220T2200Z|Houston Rockets@Denver Nuggets,HOU@DEN,9,9,0,0,0
+2025-26|20251221T0000Z|Dallas Mavericks@Philadelphia 76ers,DAL@PHI,11,11,2,0,0
+2025-26|20251221T0000Z|Boston Celtics@Toronto Raptors,BOS@TOR,11,11,2,0,0
+2025-26|20251221T0000Z|Indiana Pacers@New Orleans Pelicans,IND@NOP,10,10,3,0,0
+2025-26|20251221T0030Z|Charlotte Hornets@Detroit Pistons,CHA@DET,14,14,1,0,0
+2025-26|20251221T0100Z|Washington Wizards@Memphis Grizzlies,WAS@MEM,17,17,0,0,0
+2025-26|20251221T0130Z|Phoenix Suns@Golden State Warriors,PHX@GSW,8,8,1,0,0
+2025-26|20251221T0230Z|Orlando Magic@Utah Jazz,ORL@UTA,13,13,0,0,0
+2025-26|20251221T0300Z|Portland Trail Blazers@Sacramento Kings,POR@SAC,14,14,0,0,0
+2025-26|20251221T0330Z|Los Angeles Lakers@LA Clippers,LAL@LAC,10,10,0,0,0
+2025-26|20251221T2030Z|Chicago Bulls@Atlanta Hawks,CHI@ATL,12,12,0,0,0
+2025-26|20251221T2300Z|Toronto Raptors@Brooklyn Nets,TOR@BKN,12,12,1,0,0
+2025-26|20251221T2300Z|Miami Heat@New York Knicks,MIA@NYK,11,11,0,0,0
+2025-26|20251222T0000Z|San Antonio Spurs@Washington Wizards,SAS@WAS,12,12,0,0,0
+2025-26|20251222T0000Z|Milwaukee Bucks@Minnesota Timberwolves,MIL@MIN,7,7,0,0,0
+2025-26|20251222T0300Z|Houston Rockets@Sacramento Kings,HOU@SAC,9,9,1,0,0
