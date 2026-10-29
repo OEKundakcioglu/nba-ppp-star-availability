@@ -1,0 +1,54 @@
+{
+  "checks": {
+    "unique_rows_per_file": 300,
+    "ids_match_development_sample": true,
+    "descriptions_unchanged": true,
+    "missing_or_invalid_labels": 0
+  },
+  "supplied_coder_1_vs_2": {
+    "n": 300,
+    "agreements": 260,
+    "disagreements": 40,
+    "observed_agreement": 0.8666666666666667,
+    "expected_agreement": 0.1925,
+    "cohen_kappa": 0.8348813209494325
+  },
+  "reference_vs_supplied_coder_1": {
+    "n": 300,
+    "agreements": 271,
+    "disagreements": 29,
+    "observed_agreement": 0.9033333333333333,
+    "expected_agreement": 0.19142222222222222,
+    "cohen_kappa": 0.8804485241576431
+  },
+  "reference_vs_supplied_coder_2": {
+    "n": 300,
+    "agreements": 286,
+    "disagreements": 14,
+    "observed_agreement": 0.9533333333333334,
+    "expected_agreement": 0.20628888888888888,
+    "cohen_kappa": 0.9412044684603971
+  },
+  "provenance": {
+    "two_human_coders_confirmed": true,
+    "independent_coding_confirmed": true,
+    "blinding_to_reference_confirmed": true,
+    "blinding_to_each_other_confirmed": true,
+    "no_ai_generated_classifications_confirmed": true,
+    "confirmation_source": "User's explicit yes in this conversation on 2026-09-27, answering whether the files were completed separately by two people without AI-generated classifications or access to each other's labels or the reference labels.",
+    "coder_names": null,
+    "coding_completion_dates": null,
+    "note": "Provenance rests on the user's confirmation. Coder identities and completion dates were not supplied; they have not been inferred. Original submitted judgments are retained."
+  },
+  "limitations": [
+    "Development sample, not held-out validation.",
+    "Agreement measures consistency of wording labels, not medical truth.",
+    "Reference comparisons use the assistant-coded development reference, not a gold standard.",
+    "No adjudication or changes to the frozen panel taxonomy have been made."
+  ],
+  "source_sha256": {
+    "Encoded1.csv": "89d4adc41939f01c48b60f79b47c120c7050c593bde51034703c6a24bd033443",
+    "Encoded2.txt": "273247e3e6c74d2b856c507118c81d4f9402eb97a13f646b27432321d2cacbc9",
+    "development_reference.csv": "62e94e896f6fac79cb169307946c38b16e9d4010a9490bd6ceb7073c87092eeb"
+  }
+}

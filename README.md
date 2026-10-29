@@ -37,4 +37,12 @@ For every archived rerun, see `documentation/OCTOBER_2026_REPRODUCIBILITY.md`. R
 
 This is **analysis-ready reproducibility**, not a full raw NBA injury-report PDF / official box-score JSON mirror. The cadence-selected main input is `data_intermediate/player_team_game_harmonized_cadence.csv.gz` (248,778 player–team–games, 180,664 onset-risk observations, 12,731 onsets). `data_final/player_game_panel_analysis_ready.csv.gz` provides historical player-star classifications for an alternative All-Star-only analysis. The underlying input archives also appear in `packages/01_analysis_ready_panel.zip` and `packages/06_cadence_harmonized_identification.zip`.
 
-The public injury-label analysis uses historical latest-pre-tip extraction rather than the main cadence panel. Human-coder concordance reported in the paper is not itself an independently verified release of the underlying coder sheets. See `documentation/OCTOBER_2026_VALIDATION_PROVENANCE.md`.
+The public injury-label analysis uses historical latest-pre-tip extraction rather than the main October cadence panel. The original September 2026 human-coder worksheets, manual and scoring script have now been recovered: see `validation/independent_human_coding_2026_09/`. Recomputed agreement is 260/300 (86.7%; Cohen's κ = 0.835); independence was researcher-confirmed and cannot be proved from worksheet bytes. See `documentation/SOURCE_AND_HUMAN_CODING_EXTENSION_2026-10-29.md`.
+
+## Historical source inventory and coder evidence (October 29, 2026 extension)
+
+The 7 historical injury-report archive indexes, 7,230-game selected-report map, boxscore-ID lineage, and **21 selected timestamp exceptions** are documented under `provenance/historical_sources/`. These are original source *metadata*, not a complete mirror of raw PDFs/JSON or a fresh raw-to-analysis rebuild.
+
+The original coder sheets, protocol and reproduction script are under `validation/independent_human_coding_2026_09/`. Verify with `python3 provenance/historical_sources/verify_source_and_coding.py` (Python standard library only).
+
+The October 25 pre-extension README and manifest are preserved under `documentation/previous_october_release/`, so earlier released documentation remains traceable.

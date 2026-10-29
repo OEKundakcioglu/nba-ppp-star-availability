@@ -1,0 +1,41 @@
+spell_id,initial_designation_raw,supplied_coder_1,supplied_coder_2,development_reference,agreement
+2021-22|detroit pistons|202709|2,Health and Safety Protocols,illness,other_non_injury,illness,False
+2020-21|denver nuggets|1630267|2,Health and Safety Protocols,illness,other_non_injury,illness,False
+2021-22|milwaukee bucks|202083|1,Health and Safety Protocols,illness,other_non_injury,illness,False
+2022-23|brooklyn nets|203552|2,Injury/Illness - Left Ankle; Injury Management,illness,vague,vague,False
+2022-23|milwaukee bucks|203114|9,Injury/Illness - Right Knee; Injury Management,illness,vague,vague,False
+2021-22|portland trail blazers|1629833|5,Health and Safety Protocols,illness,other_non_injury,illness,False
+2023-24|miami heat|1629639|4,Injury/Illness - Left Knee; Hyperextension,illness,specific,specific,False
+2021-22|boston celtics|201143|1,Health and Safety Protocols,illness,other_non_injury,illness,False
+2021-22|new york knicks|203457|10,Injury/Illness - Left Foot; Sore,illness,vague,vague,False
+2024-25|denver nuggets|1631212|2,Injury/Illness - Right Knee; Inflammation,illness,vague,specific,False
+2022-23|milwaukee bucks|203114|11,Injury/Illness - Right Knee; Injury Management,illness,vague,vague,False
+2023-24|memphis grizzlies|1628991|7,Injury/Illness - Right Quadriceps; Tendonitis,illness,specific,specific,False
+2023-24|minnesota timberwolves|1641740|1,Injury/Illness - Right Achilles Tendon; Rupture Rehab,illness,specific,specific,False
+2025-26|utah jazz|1628374|3,Injury/Illness - Right Groin; Injury Management,illness,vague,vague,False
+2022-23|indiana pacers|201588|1,Rest - Trade Transition,other_non_injury,explicit_rest,explicit_rest,False
+2024-25|brooklyn nets|1626156|5,Injury/Illness - Right Ankle; Injury Management,illness,vague,vague,False
+2023-24|new orleans pelicans|1630530|1,Injury/Illness - Left Knee; Partial Meniscectomy,illness,specific,specific,False
+2024-25|brooklyn nets|202711|1,Injury/Illness - Left Foot; Injury Recovery,illness,vague,vague,False
+2025-26|detroit pistons|202699|6,Injury/Illness - Left Hip; Injury Management,illness,vague,vague,False
+2021-22|los angeles lakers|2544|4,Health and Safety Protocols,illness,other_non_injury,illness,False
+2021-22|san antonio spurs|1630170|3,Health and Safety Protocols,illness,other_non_injury,illness,False
+2023-24|portland trail blazers|1629028|3,Injury/Illness - Right Knee; Tendinitis,illness,specific,specific,False
+2025-26|houston rockets|1641708|1,Injury/Illness - Left Quadricep; Tendinitis,illness,specific,specific,False
+2020-21|new york knicks|203901|1,Injury/Illness - Right Hamstring; sore,illness,vague,vague,False
+2022-23|denver nuggets|1627750|9,Injury/Illness - Left Knee; Injury Management,illness,vague,vague,False
+2021-22|golden state warriors|203490|14,Injury/Illness - Left Foot; Injury Management,illness,vague,vague,False
+2021-22|dallas mavericks|203915|2,Injury/Illness - Right Knee; Injury Recovery,illness,vague,vague,False
+2020-21|miami heat|202710|2,Health and Safety Protocols,illness,other_non_injury,illness,False
+2025-26|oklahoma city thunder|1628392|5,Injury/Illness - Right Eye; Corneal Abrasion,illness,specific,specific,False
+2024-25|boston celtics|1630214|2,Injury/Illness - Left Knee; Inflammation,illness,vague,specific,False
+2024-25|miami heat|1629130|2,Injury/Illness - Right Foot; Inflammation,illness,vague,specific,False
+2022-23|orlando magic|1629626|1,Health and Safety Protocols,illness,other_non_injury,illness,False
+2020-21|orlando magic|1629962|2,Injury/Illness - Right Ankle; Open dislocation,illness,specific,specific,False
+2024-25|utah jazz|1628374|7,Injury/Illness - Low Back; Injury Management,illness,vague,vague,False
+2024-25|atlanta hawks|1630552|5,Injury/Illness - Left Shoulder; Injury,illness,vague,vague,False
+2021-22|miami heat|1628997|3,Health and Safety Protocols,illness,other_non_injury,illness,False
+2022-23|utah jazz|201144|3,Injury/Illness - Left Leg; Popliteus - injury management,illness,vague,vague,False
+2021-22|atlanta hawks|203524|1,Injury/Illness - Right Hamstring; Injury,illness,vague,vague,False
+2021-22|memphis grizzlies|1629723|1,Health and Safety Protocols,illness,other_non_injury,illness,False
+2023-24|new york knicks|1628384|3,Injury/Illness - Right Elbow; Injury Management,illness,vague,vague,False

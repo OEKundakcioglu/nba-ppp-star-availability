@@ -1,0 +1,301 @@
+spell_id,initial_designation_raw,supplied_coder_1,supplied_coder_2,development_reference,agreement
+2022-23|atlanta hawks|1629027|9,Injury/Illness - Right Groin; Soreness,vague,vague,vague,True
+2022-23|dallas mavericks|203493|1,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2022-23|brooklyn nets|1629139|3,Injury/Illness - Back; Tightness,vague,vague,vague,True
+2021-22|atlanta hawks|1630219|4,Injury/Illness - Non-COVID; Illness,illness,illness,illness,True
+2020-21|sacramento kings|1628963|2,Injury/Illness - Left 4th metacarpal; Fracture,specific,specific,specific,True
+2025-26|dallas mavericks|202691|9,Rest - Rest,explicit_rest,explicit_rest,explicit_rest,True
+2025-26|chicago bulls|1630581|2,Injury/Illness - Left Hamstring; Tightness,vague,vague,vague,True
+2024-25|cleveland cavaliers|1628378|5,Injury/Illness - Left Groin; Soreness,vague,vague,vague,True
+2023-24|boston celtics|201143|12,Injury/Illness - Left Big Toe; Sprain,specific,specific,specific,True
+2025-26|utah jazz|1642396|1,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|orlando magic|1631115|3,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2022-23|cleveland cavaliers|1628386|3,Injury/Illness - Right Eye; Contusion,specific,specific,specific,True
+2024-25|boston celtics|201950|2,Injury/Illness - Left Knee; Tendinopathy,specific,specific,specific,True
+2024-25|new york knicks|1630574|1,Injury/Illness - Left Ankle; Sprained,specific,specific,specific,True
+2024-25|oklahoma city thunder|1641794|7,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2020-21|oklahoma city thunder|201588|2,Injury/Illness - Right Thumb; Sprain,specific,specific,specific,True
+2024-25|denver nuggets|201566|1,Injury/Illness - Left Hamstring; Strain,specific,specific,specific,True
+2023-24|oklahoma city thunder|1631114|3,Injury/Illness - Right Ankle; Sprain,specific,specific,specific,True
+2021-22|milwaukee bucks|1629623|1,,unknown,unknown,unknown,True
+2021-22|detroit pistons|202709|2,Health and Safety Protocols,illness,other_non_injury,illness,False
+2022-23|sacramento kings|1631165|9,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2020-21|philadelphia 76ers|1630194|2,,unknown,unknown,unknown,True
+2022-23|indiana pacers|1628464|3,Injury/Illness - Right Thumb; Sprain,specific,specific,specific,True
+2024-25|san antonio spurs|1631127|4,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|boston celtics|1629674|4,,unknown,unknown,unknown,True
+2022-23|miami heat|200768|2,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2021-22|milwaukee bucks|203507|9,Injury/Illness - Right Knee; Soreness,vague,vague,vague,True
+2022-23|charlotte hornets|1631109|3,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|brooklyn nets|1627827|3,Injury/Illness - Left Knee; Soreness,vague,vague,vague,True
+2023-24|boston celtics|1630573|2,Injury/Illness - Left Ankle; Sprain,specific,specific,specific,True
+2020-21|denver nuggets|1630267|2,Health and Safety Protocols,illness,other_non_injury,illness,False
+2021-22|milwaukee bucks|202083|1,Health and Safety Protocols,illness,other_non_injury,illness,False
+2023-24|chicago bulls|1627936|1,Injury/Illness - Left Toe; Strain,specific,specific,specific,True
+2025-26|indiana pacers|1641771|1,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|milwaukee bucks|203507|4,Injury/Illness - Right Calf; Strain,specific,specific,specific,True
+2022-23|brooklyn nets|203552|2,Injury/Illness - Left Ankle; Injury Management,illness,vague,vague,False
+2024-25|portland trail blazers|1631133|1,Concussion Protocol,specific,specific,specific,True
+2025-26|houston rockets|1631095|2,Injury/Illness - Right Ankle; Sprain,specific,specific,specific,True
+2022-23|los angeles clippers|1627826|2,Injury/Illness - Right Calf; Strain,specific,specific,specific,True
+2022-23|utah jazz|1628374|8,Injury/Illness - Left Hand; Contusion,specific,specific,specific,True
+2022-23|washington wizards|1630648|3,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|memphis grizzlies|1628379|2,Injury/Illness - Illness; Illness,illness,illness,illness,True
+2024-25|golden state warriors|1642366|1,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|oklahoma city thunder|1630598|1,,unknown,unknown,unknown,True
+2025-26|portland trail blazers|1642270|1,Injury/Illness - Illness; .,illness,illness,illness,True
+2023-24|dallas mavericks|1629029|1,Personal Reasons,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|brooklyn nets|1630623|4,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2020-21|philadelphia 76ers|1627732|1,Injury/Illness - Left knee; Swelling,vague,vague,vague,True
+2022-23|orlando magic|1630181|2,League Suspension,other_non_injury,other_non_injury,other_non_injury,True
+2022-23|milwaukee bucks|203114|9,Injury/Illness - Right Knee; Injury Management,illness,vague,vague,False
+2021-22|portland trail blazers|1629833|5,Health and Safety Protocols,illness,other_non_injury,illness,False
+2023-24|minnesota timberwolves|1630568|6,,unknown,unknown,unknown,True
+2025-26|cleveland cavaliers|1628366|1,Rest - Left Knee - Injury Management,explicit_rest,explicit_rest,explicit_rest,True
+2022-23|dallas mavericks|1628373|2,,unknown,unknown,unknown,True
+2023-24|miami heat|1629639|4,Injury/Illness - Left Knee; Hyperextension,illness,specific,specific,False
+2021-22|boston celtics|201143|1,Health and Safety Protocols,illness,other_non_injury,illness,False
+2021-22|philadelphia 76ers|1630178|1,Injury/Illness - N/a; Illness - non covid,illness,illness,illness,True
+2021-22|new york knicks|203457|10,Injury/Illness - Left Foot; Sore,illness,vague,vague,False
+2024-25|denver nuggets|1631212|2,Injury/Illness - Right Knee; Inflammation,illness,vague,specific,False
+2022-23|cleveland cavaliers|1628386|4,Injury/Illness - Right Groin; Strain,specific,specific,specific,True
+2024-25|toronto raptors|202066|2,Personal Reasons,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|portland trail blazers|1629057|6,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2022-23|milwaukee bucks|203114|11,Injury/Illness - Right Knee; Injury Management,illness,vague,vague,False
+2023-24|memphis grizzlies|1628991|7,Injury/Illness - Right Quadriceps; Tendonitis,illness,specific,specific,False
+2020-21|phoenix suns|1630234|2,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|detroit pistons|1630240|11,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|minnesota timberwolves|1641740|1,Injury/Illness - Right Achilles Tendon; Rupture Rehab,illness,specific,specific,False
+2025-26|san antonio spurs|1642357|1,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2020-21|golden state warriors|203110|2,,unknown,unknown,unknown,True
+2022-23|atlanta hawks|1630235|11,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|new orleans pelicans|1629597|1,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|orlando magic|1630591|7,Injury/Illness - Right Knee; Grade 1 MCL Contusion,specific,specific,specific,True
+2024-25|chicago bulls|1630604|1,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|phoenix suns|1631102|1,,unknown,unknown,unknown,True
+2022-23|utah jazz|1630534|2,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|boston celtics|201143|4,Injury/Illness - Illness; Non-Covid,illness,illness,illness,True
+2022-23|detroit pistons|202709|6,Injury/Illness - Non-covid; Illness,illness,illness,illness,True
+2024-25|utah jazz|1628374|4,Injury/Illness - Low Back; Spasms,vague,vague,vague,True
+2025-26|indiana pacers|1642440|1,,unknown,unknown,unknown,True
+2020-21|dallas mavericks|1630189|5,Injury/Illness - Illness; Illness,illness,illness,illness,True
+2024-25|oklahoma city thunder|1642349|1,Injury/Illness - Right Great Toe; Sprain,specific,specific,specific,True
+2023-24|memphis grizzlies|1630583|6,Injury/Illness - Left Elbow; Soreness,vague,vague,vague,True
+2024-25|philadelphia 76ers|1629022|2,Injury/Illness - N/A; Concussion,specific,specific,specific,True
+2025-26|utah jazz|1628374|3,Injury/Illness - Right Groin; Injury Management,illness,vague,vague,False
+2025-26|cleveland cavaliers|1642281|2,Injury/Illness - Left Ankle; Soreness,vague,vague,vague,True
+2022-23|indiana pacers|201588|1,Rest - Trade Transition,other_non_injury,explicit_rest,explicit_rest,False
+2025-26|philadelphia 76ers|1641737|2,Injury/Illness - Back; Soreness,vague,vague,vague,True
+2022-23|cleveland cavaliers|1629685|6,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2020-21|boston celtics|202684|5,Injury/Illness - Left Pectoral; Strain,specific,specific,specific,True
+2020-21|milwaukee bucks|1629121|1,,unknown,unknown,unknown,True
+2022-23|philadelphia 76ers|1629663|1,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|brooklyn nets|1629651|6,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2020-21|new orleans pelicans|1630230|1,Injury/Illness - Left Ankle; Sprain,specific,specific,specific,True
+2020-21|oklahoma city thunder|1629652|1,Injury/Illness - Left Knee; Soreness,vague,vague,vague,True
+2023-24|charlotte hornets|1641735|2,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2022-23|chicago bulls|1629750|2,Injury/Illness - Right Knee; Soreness,vague,vague,vague,True
+2024-25|brooklyn nets|1626156|5,Injury/Illness - Right Ankle; Injury Management,illness,vague,vague,False
+2025-26|chicago bulls|1630188|6,Injury/Illness - Right Calf; Strain; Injury Management,specific,specific,specific,True
+2025-26|orlando magic|1630532|2,Injury/Illness - Left Ankle; Soreness,vague,vague,vague,True
+2023-24|new orleans pelicans|1630530|1,Injury/Illness - Left Knee; Partial Meniscectomy,illness,specific,specific,False
+2020-21|milwaukee bucks|1629603|3,,unknown,unknown,unknown,True
+2020-21|detroit pistons|1629686|3,Injury/Illness - Left Tibia; Contusion,specific,specific,specific,True
+2022-23|dallas mavericks|203501|1,Injury/Illness - Right Foot; Soreness,vague,vague,vague,True
+2024-25|charlotte hornets|1630163|6,Injury/Illness - Left Ankle; Soreness,vague,vague,vague,True
+2023-24|atlanta hawks|1641723|7,Injury/Illness - Left Big Toe; Soreness,vague,vague,vague,True
+2023-24|boston celtics|1627759|7,Injury/Illness - Right Ankle; Sprain,specific,specific,specific,True
+2023-24|sacramento kings|201580|1,Injury/Illness - N/a; Illness,illness,illness,illness,True
+2025-26|los angeles lakers|2544|6,Injury/Illness - Left Elbow Contusion &; Left Foot Arthritis,specific,specific,specific,True
+2022-23|dallas mavericks|203501|5,Injury/Illness - Left Calf; Contusion,specific,specific,specific,True
+2022-23|milwaukee bucks|1628960|4,Injury/Illness - Right Ankle; Sprain,specific,specific,specific,True
+2024-25|brooklyn nets|202711|1,Injury/Illness - Left Foot; Injury Recovery,illness,vague,vague,False
+2020-21|atlanta hawks|1630168|2,Injury/Illness - Left Achilles; Soreness,vague,vague,vague,True
+2025-26|new york knicks|1628404|1,Injury/Illness - Lower Back; Lumbar Spasms,vague,vague,vague,True
+2020-21|los angeles lakers|203076|5,Injury/Illness - Right Calf; Strain,specific,specific,specific,True
+2020-21|chicago bulls|1628990|2,Personal Reasons,other_non_injury,other_non_injury,other_non_injury,True
+2022-23|brooklyn nets|202693|1,Personal Reasons,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|los angeles clippers|202331|3,Injury/Illness - Right Elbow; Ulnar Collateral Ligament Tear,specific,specific,specific,True
+2021-22|washington wizards|203484|2,Rest - Rest,explicit_rest,explicit_rest,explicit_rest,True
+2024-25|chicago bulls|1628975|2,Injury/Illness - Right Acromioclavicular; Contusion,specific,specific,specific,True
+2024-25|milwaukee bucks|1642358|6,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|detroit pistons|202699|6,Injury/Illness - Left Hip; Injury Management,illness,vague,vague,False
+2023-24|utah jazz|1628995|1,Trade Pending,other_non_injury,other_non_injury,other_non_injury,True
+2022-23|toronto raptors|1631199|2,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|brooklyn nets|201949|6,Injury/Illness - N/a; Illness (non-covid),illness,illness,illness,True
+2021-22|washington wizards|1630264|1,Injury/Illness - Right Calf; Right calf strain,specific,specific,specific,True
+2024-25|boston celtics|1627759|3,Injury/Illness - Right Shoulder; Strain,specific,specific,specific,True
+2021-22|boston celtics|201143|7,Injury/Illness - Low Back; Soreness,vague,vague,vague,True
+2020-21|houston rockets|203506|1,,unknown,unknown,unknown,True
+2024-25|dallas mavericks|1630556|7,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|new york knicks|1626153|1,Injury/Illness - Illness; Illness,illness,illness,illness,True
+2023-24|chicago bulls|1630172|1,Injury/Illness - Right Ankle; Soreness,vague,vague,vague,True
+2023-24|portland trail blazers|1630204|3,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2020-21|detroit pistons|1630240|5,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|new orleans pelicans|1630529|2,Injury/Illness - Right Shoulder; Strain,specific,specific,specific,True
+2024-25|miami heat|1626179|4,Injury/Illness - Stomach; Illness,illness,illness,illness,True
+2020-21|golden state warriors|203110|5,Injury/Illness - Left Finger; Sprain,specific,specific,specific,True
+2025-26|detroit pistons|1641752|7,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|los angeles lakers|2544|4,Health and Safety Protocols,illness,other_non_injury,illness,False
+2021-22|san antonio spurs|1630170|3,Health and Safety Protocols,illness,other_non_injury,illness,False
+2025-26|new york knicks|1628384|3,Injury/Illness - Right Toe; Soreness,vague,vague,vague,True
+2023-24|portland trail blazers|1629028|3,Injury/Illness - Right Knee; Tendinitis,illness,specific,specific,False
+2024-25|cleveland cavaliers|1642281|3,Injury/Illness - Left Knee; Soreness,vague,vague,vague,True
+2025-26|houston rockets|1641708|1,Injury/Illness - Left Quadricep; Tendinitis,illness,specific,specific,False
+2021-22|philadelphia 76ers|203552|5,Injury/Illness - Left Ankle; Soreness,vague,vague,vague,True
+2022-23|toronto raptors|1631132|1,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2022-23|oklahoma city thunder|1629026|1,Injury/Illness - Right Knee; Sprain,specific,specific,specific,True
+2021-22|san antonio spurs|1628966|1,Injury/Illness - Low Back; Contusion,specific,specific,specific,True
+2021-22|cleveland cavaliers|1629685|2,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|boston celtics|1628464|1,Trade Pending,other_non_injury,other_non_injury,other_non_injury,True
+2022-23|dallas mavericks|1628467|3,Injury/Illness - Right Knee; Sprain,specific,specific,specific,True
+2025-26|san antonio spurs|1631127|8,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|los angeles clippers|201587|1,Trade Pending,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|chicago bulls|1641931|1,,unknown,unknown,unknown,True
+2025-26|new orleans pelicans|1631121|4,,unknown,unknown,unknown,True
+2025-26|new york knicks|1642359|4,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|charlotte hornets|1626179|2,Injury/Illness - Right Ankle; Sprain,specific,specific,specific,True
+2024-25|memphis grizzlies|1629630|10,Injury/Illness - Right Knee; Soreness,vague,vague,vague,True
+2020-21|memphis grizzlies|1628960|5,Injury/Illness - Left Hip; Soreness,vague,vague,vague,True
+2024-25|minnesota timberwolves|1630538|1,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|oklahoma city thunder|1627936|2,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2020-21|new york knicks|203901|1,Injury/Illness - Right Hamstring; sore,illness,vague,vague,False
+2021-22|brooklyn nets|1630549|1,Injury/Illness - Right Second Toe; Sprain,specific,specific,specific,True
+2022-23|houston rockets|1628981|1,Injury/Illness - Left Knee; Soreness,vague,vague,vague,True
+2025-26|atlanta hawks|204001|5,Injury/Illness - N/A; Illness,illness,illness,illness,True
+2024-25|chicago bulls|1641763|2,Injury/Illness - Right Quadricep; Contusion,specific,specific,specific,True
+2025-26|golden state warriors|202710|1,Injury/Illness - Right Low Back; Strain,specific,specific,specific,True
+2023-24|new orleans pelicans|1626204|4,Injury/Illness - Non-COVID; Illness,illness,illness,illness,True
+2024-25|detroit pistons|1631214|3,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2022-23|golden state warriors|1631311|2,,unknown,unknown,unknown,True
+2025-26|utah jazz|201567|6,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2022-23|denver nuggets|1627750|9,Injury/Illness - Left Knee; Injury Management,illness,vague,vague,False
+2025-26|sacramento kings|1631116|2,,unknown,unknown,unknown,True
+2020-21|sacramento kings|1630186|2,Injury/Illness - Right Hamstring; Strain,specific,specific,specific,True
+2023-24|dallas mavericks|1641765|5,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2020-21|golden state warriors|201939|2,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2021-22|houston rockets|1629645|5,Injury/Illness - Illness; Illness,illness,illness,illness,True
+2024-25|indiana pacers|1630164|1,Injury/Illness - Left Achilles Tendon; Tear,specific,specific,specific,True
+2020-21|detroit pistons|1629635|3,Injury/Illness - Neck; Soreness,vague,vague,vague,True
+2021-22|charlotte hornets|1630547|2,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|philadelphia 76ers|1631213|4,,unknown,unknown,unknown,True
+2021-22|golden state warriors|203490|14,Injury/Illness - Left Foot; Injury Management,illness,vague,vague,False
+2024-25|golden state warriors|1642379|4,,unknown,unknown,unknown,True
+2020-21|miami heat|1629134|4,,unknown,unknown,unknown,True
+2023-24|detroit pistons|1630649|5,Injury/Illness - Right Ankle; Fracture,specific,specific,specific,True
+2023-24|washington wizards|1628963|4,Injury/Illness - Right Knee; Sprain,specific,specific,specific,True
+2025-26|detroit pistons|1642404|2,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|houston rockets|1628415|4,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2020-21|miami heat|201609|4,Injury/Illness - Lower Back; Spasms,vague,vague,vague,True
+2021-22|dallas mavericks|203915|2,Injury/Illness - Right Knee; Injury Recovery,illness,vague,vague,False
+2025-26|new york knicks|1642359|3,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|los angeles lakers|1629685|3,,unknown,unknown,unknown,True
+2024-25|los angeles lakers|1642422|3,Injury/Illness - Right Quad; Contusion,specific,specific,specific,True
+2025-26|los angeles clippers|1627826|2,Injury/Illness - Left Ankle; Sprain,specific,specific,specific,True
+2021-22|new orleans pelicans|202685|3,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2022-23|detroit pistons|1631197|2,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|memphis grizzlies|1630583|1,Injury/Illness - Right Knee; Soreness,vague,vague,vague,True
+2024-25|los angeles lakers|1641998|4,,unknown,unknown,unknown,True
+2022-23|charlotte hornets|1630539|5,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2020-21|miami heat|202710|2,Health and Safety Protocols,illness,other_non_injury,illness,False
+2025-26|philadelphia 76ers|1642282|6,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|sacramento kings|1631115|1,Injury/Illness - Left MCL; Sprain,specific,specific,specific,True
+2022-23|boston celtics|1627763|1,Injury/Illness - Right Hamstring; Tightness,vague,vague,vague,True
+2024-25|milwaukee bucks|1629018|1,Injury/Illness - Lower Back; Spasms,vague,vague,vague,True
+2024-25|los angeles lakers|1629029|4,Injury/Illness - Right Ankle; Sprain,specific,specific,specific,True
+2024-25|toronto raptors|1642419|1,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|philadelphia 76ers|202331|6,,unknown,unknown,unknown,True
+2021-22|milwaukee bucks|203918|2,,unknown,unknown,unknown,True
+2025-26|oklahoma city thunder|1628392|5,Injury/Illness - Right Eye; Corneal Abrasion,illness,specific,specific,False
+2022-23|houston rockets|1631309|4,,unknown,unknown,unknown,True
+2021-22|phoenix suns|203109|4,Injury/Illness - Right Ankle; Soreness,vague,vague,vague,True
+2021-22|los angeles lakers|2544|9,Injury/Illness - Left Ankle; Sprain,specific,specific,specific,True
+2021-22|philadelphia 76ers|1629003|4,Injury/Illness - Back; Contusion,specific,specific,specific,True
+2025-26|washington wizards|1641731|8,Injury/Illness - Right Retrocalcaneal; Bursitis,specific,specific,specific,True
+2024-25|boston celtics|1630214|2,Injury/Illness - Left Knee; Inflammation,illness,vague,specific,False
+2020-21|san antonio spurs|201942|6,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2024-25|miami heat|1629130|2,Injury/Illness - Right Foot; Inflammation,illness,vague,specific,False
+2025-26|memphis grizzlies|1629634|2,Injury/Illness - Right Calf; Strain,specific,specific,specific,True
+2022-23|orlando magic|1629626|1,Health and Safety Protocols,illness,other_non_injury,illness,False
+2023-24|boston celtics|1629052|2,Injury/Illness - Illness; Non-Covid,illness,illness,illness,True
+2020-21|new orleans pelicans|200755|2,Injury/Illness - Right Heel; Soreness,vague,vague,vague,True
+2020-21|orlando magic|1629962|2,Injury/Illness - Right Ankle; Open dislocation,illness,specific,specific,False
+2023-24|utah jazz|1641729|8,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|houston rockets|1641708|1,League Suspension,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|dallas mavericks|202691|3,Injury/Illness - Left Knee; Soreness,vague,vague,vague,True
+2023-24|golden state warriors|1630611|4,,unknown,unknown,unknown,True
+2023-24|detroit pistons|1641787|1,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|san antonio spurs|1642434|1,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|utah jazz|1628374|7,Injury/Illness - Low Back; Injury Management,illness,vague,vague,False
+2024-25|orlando magic|1629048|2,,unknown,unknown,unknown,True
+2025-26|los angeles clippers|1642949|1,Injury/Illness - Left Ankle; Sprain,specific,specific,specific,True
+2021-22|oklahoma city thunder|1628983|6,Injury/Illness - Right Ankle; Soreness,vague,vague,vague,True
+2021-22|detroit pistons|1630165|4,Injury/Illness - Right Hip; Contusion,specific,specific,specific,True
+2021-22|new orleans pelicans|1627742|2,Injury/Illness - Left Achilles; Soreness,vague,vague,vague,True
+2022-23|utah jazz|1629020|1,Injury/Illness - Right Adductor; Soreness,vague,vague,vague,True
+2023-24|sacramento kings|1628989|1,Injury/Illness - Left Finger; Sprain,specific,specific,specific,True
+2023-24|minnesota timberwolves|1630568|2,,unknown,unknown,unknown,True
+2021-22|cleveland cavaliers|1629685|3,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|brooklyn nets|1629611|4,Injury/Illness - N/a; Illness,illness,illness,illness,True
+2021-22|houston rockets|1630227|4,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|atlanta hawks|1630552|5,Injury/Illness - Left Shoulder; Injury,illness,vague,vague,False
+2022-23|utah jazz|1630695|5,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2022-23|boston celtics|201143|12,Injury/Illness - Low Back; Stiffness,vague,vague,vague,True
+2023-24|philadelphia 76ers|200768|5,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2022-23|new york knicks|1630624|2,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|brooklyn nets|1642962|4,Injury/Illness - Right Ankle; Sprain,specific,specific,specific,True
+2020-21|atlanta hawks|201568|3,Injury/Illness - Left Achilles; Soreness,vague,vague,vague,True
+2025-26|cleveland cavaliers|1629622|1,Injury/Illness - Left Foot; Surgery - Jones Fracture,specific,specific,specific,True
+2025-26|memphis grizzlies|1642285|1,Personal Reasons,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|new york knicks|1641794|4,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|philadelphia 76ers|1630194|1,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|cleveland cavaliers|1641734|2,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|sacramento kings|1641771|2,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2020-21|los angeles lakers|202083|3,,unknown,unknown,unknown,True
+2022-23|toronto raptors|203115|2,Injury/Illness - Left Ankle; Sprain,specific,specific,specific,True
+2020-21|toronto raptors|1627783|4,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2025-26|dallas mavericks|1630619|8,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|cleveland cavaliers|1629731|4,Injury/Illness - Left Knee; Contusion,specific,specific,specific,True
+2021-22|golden state warriors|1630288|1,Not With Team,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|miami heat|202710|1,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2023-24|dallas mavericks|1630535|2,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|washington wizards|1628398|3,Injury/Illness - Left Shoulder; Soreness,vague,vague,vague,True
+2023-24|boston celtics|1628401|1,Personal Reasons,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|golden state warriors|1630541|5,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|indiana pacers|1641767|2,Injury/Illness - N/A; Illness,illness,illness,illness,True
+2021-22|los angeles lakers|1630222|2,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|dallas mavericks|1628467|4,Injury/Illness - Right Small Toe; Dislocation; Nasal Fracture,specific,specific,specific,True
+2021-22|sacramento kings|1626158|5,Injury/Illness - Back; Soreness,vague,vague,vague,True
+2020-21|oklahoma city thunder|203121|1,Injury/Illness - N/a; Stomach Illness,illness,illness,illness,True
+2024-25|new york knicks|1642359|10,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|orlando magic|1641724|2,Injury/Illness - N/A; Illness,illness,illness,illness,True
+2021-22|boston celtics|203471|1,Injury/Illness - Right Ankle; Sprain,specific,specific,specific,True
+2021-22|miami heat|1628997|3,Health and Safety Protocols,illness,other_non_injury,illness,False
+2024-25|milwaukee bucks|1630649|6,,unknown,unknown,unknown,True
+2024-25|sacramento kings|1630222|7,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2025-26|washington wizards|1641731|2,Injury/Illness - Left Lower Leg; Tightness,vague,vague,vague,True
+2023-24|sacramento kings|1641771|3,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|cleveland cavaliers|1630596|3,Injury/Illness - Left Ankle; Sprain,specific,specific,specific,True
+2023-24|oklahoma city thunder|1630322|10,Injury/Illness - N/a; Illness,illness,illness,illness,True
+2023-24|philadelphia 76ers|1630178|6,Injury/Illness - Left Hip; Tightness,vague,vague,vague,True
+2021-22|milwaukee bucks|1630606|1,,unknown,unknown,unknown,True
+2025-26|los angeles lakers|1629028|3,Injury/Illness - Left Elbow; Soreness,vague,vague,vague,True
+2023-24|los angeles lakers|1629685|4,,unknown,unknown,unknown,True
+2024-25|boston celtics|204001|11,Injury/Illness - Illness; Non-Covid,illness,illness,illness,True
+2022-23|utah jazz|201144|3,Injury/Illness - Left Leg; Popliteus - injury management,illness,vague,vague,False
+2024-25|toronto raptors|1630618|3,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2021-22|atlanta hawks|203524|1,Injury/Illness - Right Hamstring; Injury,illness,vague,vague,False
+2021-22|memphis grizzlies|1629723|1,Health and Safety Protocols,illness,other_non_injury,illness,False
+2022-23|minnesota timberwolves|1629675|1,Injury/Illness - N/A; Illness,illness,illness,illness,True
+2023-24|boston celtics|1629674|8,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2024-25|brooklyn nets|1629661|6,Injury/Illness - Left Knee; Soreness,vague,vague,vague,True
+2025-26|detroit pistons|1641752|3,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2023-24|new york knicks|1628384|3,Injury/Illness - Right Elbow; Injury Management,illness,vague,vague,False
+2024-25|cleveland cavaliers|1628378|4,Rest,explicit_rest,explicit_rest,explicit_rest,True
+2023-24|los angeles lakers|2544|9,Injury/Illness - Left Ankle; Peroneal Tendinopathy,specific,specific,specific,True
+2023-24|golden state warriors|1630611|1,G League - On Assignment,other_non_injury,other_non_injury,other_non_injury,True
+2022-23|san antonio spurs|1631230|7,G League - Two-Way,other_non_injury,other_non_injury,other_non_injury,True
+2020-21|san antonio spurs|1629683|5,,unknown,unknown,unknown,True
+2022-23|miami heat|1628389|3,Injury/Illness - Head; Non-Covid Illness,illness,illness,illness,True
+2025-26|atlanta hawks|1630552|7,Injury/Illness - Left Hip Flexor; Irritation,vague,vague,vague,True
+2025-26|indiana pacers|1642277|2,Injury/Illness - Left Ankle; Sprain,specific,specific,specific,True
