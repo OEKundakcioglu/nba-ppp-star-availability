@@ -12,6 +12,10 @@ For the **current October 25 manuscript**, use `manuscript/october_2026/`, the r
 
 The **August 12 freeze is not replaced**. Original `results/FINAL_RESULTS_TABLE.csv`, `results/CORE_MANUSCRIPT_RESULTS.csv`, `packages/`, `data_final/` and root `MANIFEST_SHA256.csv` remain historical analysis artifacts; their original README is preserved as `documentation/AUGUST_2026_FREEZE_README.md`. In particular, the August +3.15 pp latest-pre-tip coefficient is **not** the October headline estimate.
 
+## Current documentation index
+
+See **[Documentation version guide](documentation/README.md)** for the current October manuscript and results, verification evidence, and a clear distinction between the historical August freeze documents and later October research updates. The August freeze artifacts and root August SHA-256 manifest are preserved unchanged.
+
 ## Current October files
 
 - `manuscript/october_2026/` — audited October 25 paper, LaTeX source, referenced figures, and identification audit.
