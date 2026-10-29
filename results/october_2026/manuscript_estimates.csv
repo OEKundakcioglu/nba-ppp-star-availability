@@ -1,0 +1,17 @@
+analysis,tv_definition,report_timing,estimate_pp,ci_low_pp,ci_high_pp,p_value,n,status,source
+Main national-partner DDD,national_partner_including_streaming,harmonized_common_times,2.6304485901569383,0.0457493785873012,5.215147801726576,0.0460764656930466,180530,current manuscript main,October 25 manuscript; August archived coefficient cross-check
+Linear-TV-only DDD,linear_tv_only,harmonized_common_times,1.2389703651133357,-1.3456779812174648,3.823618711444136,0.3474532856699015,180530,current manuscript sensitivity,October 25 manuscript; August archived coefficient cross-check
+Original latest-pre-tip DDD,national_partner_including_streaming,latest_pre_tip,3.14925625567831,0.5705965135968,5.72791599775982,0.0166793068180634,180695,historical August freeze,Original GitHub results/CORE_MANUSCRIPT_RESULTS.csv
+Latest-pre-tip linear DDD,linear_tv_only,latest_pre_tip,1.7746566172121114,-0.7996399603637395,4.348953194787962,0.1766391580366461,180695,historical August freeze,Original GitHub results/CORE_MANUSCRIPT_RESULTS.csv
+All-Star-only national-partner,national_partner_including_streaming,harmonized_common_times,2.99,0.43,5.54,0.022,180530,October rerun sensitivity,NBA_Robustness_Rerun_Report.md (rounded)
+All-Star-only linear-TV,linear_tv_only,harmonized_common_times,1.61,-0.94,4.16,0.216,180530,October rerun sensitivity,NBA_Robustness_Rerun_Report.md (rounded)
+One-game Star x Post x Home,not_applicable,harmonized_common_times,1.41,-0.24,3.05,0.093,180087,October rerun mechanism,NBA_Robustness_Rerun_Report.md (rounded)
+Two-or-more-game Star x Post x Home,not_applicable,harmonized_common_times,-0.26,-1.67,1.15,0.719,180087,October rerun placebo,NBA_Robustness_Rerun_Report.md (rounded)
+One-game home/road exclude Cup,not_applicable,harmonized_common_times,1.34,-0.31,2.98,0.111,175015,October rerun robustness,NBA_Robustness_Rerun_Report.md (rounded)
+One-game home/road exclude 2020-21 and 2021-22,not_applicable,harmonized_common_times,3.12,0.73,5.5,0.01,123176,October rerun robustness,NBA_Robustness_Rerun_Report.md (rounded)
+Short spell one game immediately before linear TV,linear_tv_only,harmonized_common_times,0.06,-1.97,2.09,0.954,178080,October exploratory,NBA_Robustness_Rerun_Report.md (rounded)
+"Short spell <=2 games, TV in next two games",linear_tv_only,harmonized_common_times,-0.74,-2.41,0.92,0.38,175739,October exploratory,NBA_Robustness_Rerun_Report.md (rounded)
+Short spell one game immediately before national-partner TV,national_partner_including_streaming,harmonized_common_times,-0.02,-2.01,1.96,0.982,178080,October exploratory,NBA_Robustness_Rerun_Report.md (rounded)
+"Short spell <=2 games, national-partner TV in next two games",national_partner_including_streaming,harmonized_common_times,-0.37,-2.13,1.39,0.682,175739,October exploratory,NBA_Robustness_Rerun_Report.md (rounded)
+Return hazard linear TV,linear_tv_only,harmonized_common_times,4.95,-1.65,11.56,0.142,50370,October exploratory,NBA_Robustness_Rerun_Report.md (rounded)
+Return hazard national-partner TV,national_partner_including_streaming,harmonized_common_times,5.08,-1.16,11.33,0.111,50370,October exploratory,NBA_Robustness_Rerun_Report.md (rounded)
