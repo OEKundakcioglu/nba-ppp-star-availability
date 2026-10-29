@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-29",
+  "source": "provenance/historical_sources/selected_report_timestamp_exceptions.csv (merged October 29 provenance extension)",
+  "investigated_games": 21,
+  "selected_pdf_objects": 8,
+  "manifest_to_header_shift_minutes": 15,
+  "pre_tip_by_pdf_header_games": 21,
+  "corrected_lead_under_30_minutes_games": 2,
+  "affected_player_team_game_rows": 733,
+  "affected_at_risk_rows": 514,
+  "affected_onset_rows": 35,
+  "complete_case_full": 180530,
+  "complete_case_excluding_21_games": 180016,
+  "method": "Exclude entire 21 games from the already constructed at-risk panel, then refit published LPM fixed-effects and two-way clustered SE, without changing report data on other games.",
+  "not_performed": [
+    "re-selection of alternate PDF",
+    "revision of player-game outcomes",
+    "raw source PDF reconstruction",
+    "full player-history recomputation after alternate re-selection"
+  ]
+}
