@@ -1,0 +1,20 @@
+test,estimate_pp,CI_low_pp,CI_high_pp,p,n,notes
+Primary TV DDD,1.239,-1.346,3.824,0.34745,180530,"Harmonized linear-TV, headline baseline"
+Legacy TV DDD,2.63,0.046,5.215,0.04608,180530,Legacy broader national-TV exposure
+All-Star-only TV DDD,1.61,-0.941,4.161,0.21621,180530,"Harmonized TV, All-Star-only star status"
+All-Star-only legacy TV DDD,2.987,0.43,5.544,0.02207,180530,"Legacy TV, All-Star-only star status"
+Home/road one-game DDD,1.406,-0.237,3.049,0.09349,180087,"Three-way FE, fully observed next game"
+Home/road >=2 games placebo,-0.258,-1.666,1.15,0.71942,180087,"Three-way FE, >=2 games confirmed"
+Home/road All-Star only,1.409,-0.233,3.051,0.09252,180087,"Three-way FE, All-Star-only star status"
+Home/road exclude Cup,1.338,-0.308,2.983,0.11108,175015,NBA Cup excluded
+Home/road exclude COVID seasons,3.118,0.732,5.505,0.01044,123176,2020–21 and 2021–22 excluded
+"Next TV one-game, harmonized",0.06,-1.968,2.087,0.95409,178080,Exactly one-game spell beginning before national TV
+"Next TV one-game, legacy",-0.022,-2.009,1.964,0.9824,178080,Exactly one-game spell beginning before legacy national TV
+"Within 2 TV short, harmonized",-0.745,-2.41,0.919,0.38024,175739,<=2 missed team games before TV within next 2 team games
+"Within 2 TV short, legacy",-0.368,-2.131,1.394,0.68205,175739,<=2 missed team games before legacy TV within next 2 team games
+"Return hazard, harmonized",4.954,-1.652,11.56,0.14163,50370,"Known-onset return-risk spells, age-bin controls"
+"Return hazard, legacy",5.083,-1.161,11.327,0.1106,50370,"Known-onset return-risk spells, age-bin controls"
+Placebo 2021-22 (tv_harmonized_linear),1.27,-2.517,5.056,0.51099,87788,Fake policy start on pre-PPP seasons only
+Placebo 2022-23 (tv_harmonized_linear),-0.313,-3.97,3.343,0.86675,87788,Fake policy start on pre-PPP seasons only
+Placebo 2021-22 (announced_tv_primary),1.27,-2.517,5.056,0.51099,87788,Fake policy start on pre-PPP seasons only
+Placebo 2022-23 (announced_tv_primary),-0.313,-3.97,3.343,0.86675,87788,Fake policy start on pre-PPP seasons only

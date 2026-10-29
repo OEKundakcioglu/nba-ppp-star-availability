@@ -1,0 +1,7 @@
+tv,outcome,n_before_control_drop,wald_chi2_6,p
+tv_harmonized_linear,absence_onset_harm,85031,3.0358803830257655,0.8043301803012303
+tv_harmonized_linear,absence_now_harm,114767,3.6416749339919177,0.7250349252422286
+tv_harmonized_linear,repair,22151,15.644484058305148,0.01579485883498878
+announced_tv_primary,absence_onset_harm,89875,3.5026889355178032,0.7436119098670961
+announced_tv_primary,absence_now_harm,121573,3.737751670802539,0.712115351120765
+announced_tv_primary,repair,23713,12.26421721937134,0.05632743531443396
