@@ -1,0 +1,11 @@
+{
+  "two_human_coders_confirmed": true,
+  "independent_coding_confirmed": true,
+  "blinding_to_reference_confirmed": true,
+  "blinding_to_each_other_confirmed": true,
+  "no_ai_generated_classifications_confirmed": true,
+  "confirmation_source": "User's explicit yes in this conversation on 2026-09-27, answering whether the files were completed separately by two people without AI-generated classifications or access to each other's labels or the reference labels.",
+  "coder_names": null,
+  "coding_completion_dates": null,
+  "note": "Provenance rests on the user's confirmation. Coder identities and completion dates were not supplied; they have not been inferred. Original submitted judgments are retained."
+}

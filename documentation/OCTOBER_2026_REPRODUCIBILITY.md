@@ -58,3 +58,7 @@ The 2025–26 streaming-only 101 games are included in `announced_tv_primary` (n
 ## Paper version
 
 `manuscript/october_2026/` contains the method-audited October 25 version (a later same-day methodological revision), not the earlier October 25 un-audited version. The folder includes `main.tex`, two referenced PDF figures and the original audited manuscript PDF. Compile from inside that folder using a LaTeX distribution supporting the packages in `main.tex`.
+
+
+## October 29 source/coding provenance extension
+A later addendum at `documentation/SOURCE_AND_HUMAN_CODING_EXTENSION_2026-10-29.md` supplies the previously missing original coder worksheets and scoring script, plus independently checkable historical source metadata. The October 25 snapshot above retains its original historical context. Run `python3 provenance/historical_sources/verify_source_and_coding.py`. No original NBA PDF/JSON payloads were added or re-parsed as part of that extension.

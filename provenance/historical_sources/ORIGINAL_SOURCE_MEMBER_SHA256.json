@@ -1,0 +1,14 @@
+{
+  "source_archive": "NBA_Historical_Source_Inventory.zip",
+  "source_archive_sha256": "365e86f47078b093585445ab8dd6143b74b14df3afdfc1af4e4f063305823d1f",
+  "archive_contents_not_republished": "Original NBA and other third-party schedule PDFs / webpages and primary injury-report PDF archives are not included in this metadata-only release.",
+  "members_uncompressed_sha256": {
+    "NBA_Source_Inventory.csv": "dd990dca7dd33e40d4b60c3e5789a5432a537e77f1ed1511a8f74c9f8df1f2f4",
+    "injury_archive_summary.csv": "216d627b9bee34d9b7146c717f1343c700966442dee3f4b29ba02efade9353ed",
+    "selected_report_timestamp_exceptions.csv": "389103717d936930f53cf47955f6b9936f39b64ba4f741c52401c9a6da85075d",
+    "injury_report_inventory.csv": "c5256b1fe4b8babe4637c6997839b10d9bf0f6cf598ccc549d5dd9354fa733e1",
+    "primary_sample_report_map.csv": "41a66daf38cb4417c78d95e576079d8e0b3c0600a41bea505ccaa46f5a1fa4e0",
+    "archived_game_report_links.csv": "870cf6af8a9d7bca414401357755846f8c3512b6bbfb85f4772ebb10ec9295ca",
+    "boxscore_source_map.csv": "e741a3a1e4062b251fd32cfef8e5435000b5a2024d427bef2ac433b6be97cc52"
+  }
+}
