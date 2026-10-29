@@ -24,3 +24,6 @@ results/portable_*.zip
 
 # Stage 10 rebuildable reliability panels
 data_intermediate/reliability_stage10/
+
+# October rerun scratch results
+results/october_2026/recomputed/
