@@ -1,0 +1,13 @@
+{
+  "reference_manuscript": "NBA_Player_Participation_Final_2026-10-25.tex",
+  "report_timing": "harmonized_common_times",
+  "full_player_team_games": 248778,
+  "at_risk_player_team_games": 180664,
+  "new_absence_onsets": 12731,
+  "primary_controlled_model_n": 180530,
+  "games": 7230,
+  "team_games": 14460,
+  "source": "October 25 manuscript; archive/panel values not reprocessed in this patch",
+  "validation_note": "August qa_summary.json documents earlier assistant review, and must not be overwritten. Manuscript reports two independent human coders on 300 labels: 260 agreements (86.7%), Cohen kappa 0.835. Independent coder source artifacts not bundled here.",
+  "risk_note": "21 primary-sample game selections in December 2025 had PDF printed times 15 minutes later than manifest; reevaluate for exact-clock claims."
+}

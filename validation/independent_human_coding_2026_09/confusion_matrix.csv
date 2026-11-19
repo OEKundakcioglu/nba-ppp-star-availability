@@ -1,0 +1,7 @@
+coder_1,explicit_rest,illness,other_non_injury,specific,vague,unknown
+explicit_rest,17,0,0,0,0,0
+illness,0,23,11,8,20,0
+other_non_injury,1,0,75,0,0,0
+specific,0,0,0,66,0,0
+vague,0,0,0,0,47,0
+unknown,0,0,0,0,0,32

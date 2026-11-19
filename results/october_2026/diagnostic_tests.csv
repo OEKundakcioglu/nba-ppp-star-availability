@@ -1,0 +1,7 @@
+test,tv_definition,p_value,n,test_statistic,source,scope
+Joint pretrend,linear_tv_only,0.616,180530,Wald chi2(2)=0.970,October 25 robustness rerun,failure to reject is not validation of parallel trends
+Joint pretrend,national_partner_including_streaming,0.616,180530,Wald chi2(2)=0.969,October 25 robustness rerun,failure to reject is not validation of parallel trends
+Fake PPP start 2021-22,preperiod_same_definition,0.511,87788,"estimate +1.27 pp; CI [-2.52,5.06]",October 25 robustness rerun,preperiod-only placebo
+Fake PPP start 2022-23,preperiod_same_definition,0.867,87788,"estimate -0.31 pp; CI [-3.97,3.34]",October 25 robustness rerun,preperiod-only placebo
+Event window return joint test,linear_tv_only,0.0158,,event -3 to +3 games,October 25 robustness rerun,"exploratory, unadjusted for multiple windows"
+Event window return joint test,national_partner_including_streaming,0.0563,,event -3 to +3 games,October 25 robustness rerun,"exploratory, unadjusted for multiple windows"

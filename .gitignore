@@ -27,3 +27,6 @@ data_intermediate/reliability_stage10/
 
 # Raw-data rebuild scratch outputs (never commit raw NBA PDFs/JSON here)
 data_rebuild/output/
+
+# October rerun scratch results
+results/october_2026/recomputed/

@@ -1,0 +1,16 @@
+game_id,team,name,candidate_status,later_status,candidate_reason,later_reason,status_changed,reason_changed
+2025-26|20251220T0000Z|Philadelphia 76ers@New York Knicks,New York Knicks,"Dadiet, Pacome",Questionable,Out,G League - On Assignment,G League - On Assignment,True,False
+2025-26|20251220T0000Z|Philadelphia 76ers@New York Knicks,New York Knicks,"Hart, Josh",Probable,Available,Injury/Illness - Abdominal; Rectus Abdominus Strain,Injury/Illness - Abdominal; Rectus Abdominus Strain,True,False
+2025-26|20251220T0000Z|Philadelphia 76ers@New York Knicks,New York Knicks,"Towns, Karl-Anthony",Probable,Available,Injury/Illness - Left Knee; Soreness,Injury/Illness - Left Knee; Soreness,True,False
+2025-26|20251220T0230Z|Oklahoma City Thunder@Minnesota Timberwolves,Minnesota Timberwolves,"Edwards, Anthony",Questionable,Available,Injury/Illness - Right Foot; Injury Maintenance,Injury/Illness - Right Foot; Injury Maintenance,True,False
+2025-26|20251221T0000Z|Dallas Mavericks@Philadelphia 76ers,Dallas Mavericks,"Davis, Anthony",Probable,Available,Injury/Illness - Illness; Illness,Injury/Illness - Illness; Illness,True,False
+2025-26|20251221T0000Z|Dallas Mavericks@Philadelphia 76ers,Dallas Mavericks,"Thompson, Klay",Questionable,Available,Injury/Illness - Left Knee; Soreness,Injury/Illness - Left Knee; Soreness,True,False
+2025-26|20251221T0000Z|Boston Celtics@Toronto Raptors,Boston Celtics,"Brown, Jaylen",Doubtful,Out,Injury/Illness - Illness; Non-Covid,Injury/Illness - Illness; Non-Covid,True,False
+2025-26|20251221T0000Z|Boston Celtics@Toronto Raptors,Toronto Raptors,"Poeltl, Jakob",Doubtful,Out,Injury/Illness - Lower Back; Injury Management,Injury/Illness - Lower Back; Injury Management,True,False
+2025-26|20251221T0000Z|Indiana Pacers@New Orleans Pelicans,Indiana Pacers,"Bradley, Tony",Questionable,Available,Injury/Illness - Right Thumb; Fracture,Injury/Illness - Right Thumb; Fracture,True,False
+2025-26|20251221T0000Z|Indiana Pacers@New Orleans Pelicans,Indiana Pacers,"Jones, Kam",Doubtful,Out,G League - On Assignment,G League - On Assignment,True,False
+2025-26|20251221T0000Z|Indiana Pacers@New Orleans Pelicans,Indiana Pacers,"Peter, Taelon",Doubtful,Out,G League - Two-Way,G League - Two-Way,True,False
+2025-26|20251221T0030Z|Charlotte Hornets@Detroit Pistons,Detroit Pistons,"Robinson, Duncan",Probable,Available,Injury/Illness - Left Knee; Contusion,Injury/Illness - Left Knee; Contusion,True,False
+2025-26|20251221T0130Z|Phoenix Suns@Golden State Warriors,Golden State Warriors,"Kuminga, Jonathan",Questionable,Out,Injury/Illness - General; Illness,Injury/Illness - General; Illness,True,False
+2025-26|20251221T2300Z|Toronto Raptors@Brooklyn Nets,Toronto Raptors,"Poeltl, Jakob",Questionable,Available,Injury/Illness - Back; Lower; injury management,Injury/Illness - Back; Lower; injury management,True,False
+2025-26|20251222T0300Z|Houston Rockets@Sacramento Kings,Sacramento Kings,"McDermott, Doug",Questionable,Available,Injury/Illness - Left Knee; Soreness,-,True,True
