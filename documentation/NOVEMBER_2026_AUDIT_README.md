@@ -86,6 +86,7 @@ No additional specification should replace the frozen suite merely because it gi
 - `documentation/TAXONOMY_VALIDATION_PROVENANCE.md` — correct description of the 300-spell validation.
 - `documentation/TAXONOMY_VALIDATION_PROVENANCE_ADDENDUM_2026-11-15.md` — later addendum separating the 260/300 human double-coding archive from the frozen 300-spell exercise (kept outside the frozen file so `MANIFEST_SHA256.csv` stays valid).
 - `documentation/RAW_DATA_AND_REPRODUCIBILITY_SCOPE.md` — what is and is not bundled.
+- `documentation/COMMIT_SHA_MAP.md` — current commit for each earlier commit SHA cited in evidence documents.
 - `data_final/` — final analysis-ready panels and frozen spell taxonomy.
 - `packages/` — exact milestone packages in execution order.
 - `validation/` — taxonomy scoring artifacts.
